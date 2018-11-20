@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-btx",
+  "name": "bitcore-build-genesis",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-btx modules'",
+  "description": "A helper for common tasks to build bitcore-genesis modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/BTXinsight/bitcore-build-btx"
+    "url": "git://github.com/genesis-extended/bitcore-build-genesis"
   },
   "keywords": [
     "bitcore"
@@ -41,9 +41,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BTXinsight/bitcore-build-btx/issues"
+    "url": "https://github.com/genesis-extended/bitcore-build-genesis/issues"
   },
-  "homepage": "https://github.com/BTXinsight/bitcore-build-btx",
+  "homepage": "https://github.com/genesis-extended/bitcore-build-genesis",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
